@@ -3,7 +3,7 @@
  * Plugin Name: Puppy Galerie
  * Plugin URI: 
  * Description: Galerie Menü für die Puppy Galerien
- * Version: 1.0.1
+ * Version: 1.2.0
  * Author: Felix Limburger
  * Author URI: https://felixlimburger.de
  */
