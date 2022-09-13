@@ -12,6 +12,10 @@ Das ist das Plugin, um in WordPress ein Galerie Menü für die Puppy Galerien zu
 Hier kann man dann die gewünschten Galerien anlegen und verwalten.
 
 == Changelog ==
+
+= 1.2.2 =
+* Verbesserung von Ordnerstruktur
+
 = 1.2.1 =
 * Kleiner Fix für Github
 
