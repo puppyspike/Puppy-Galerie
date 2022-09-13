@@ -1,5 +1,8 @@
 === Puppy Galerie ===
-Tags: puppy, galerie
+Tags: puppy, galerie, selbst erstellt
+Requires at least: 5.9
+Tested up to: 6.0.2
+Stable tag: 1.2.0
 
 Galerie Menü für die Puppy Galerien
 
@@ -11,6 +14,3 @@ Hier kann man dann die gewünschten Galerien anlegen und verwalten.
 == Changelog ==
 = 1.2.0 =
 * Erstes Update mit Updater
-
-== Upgrade Notice ==
-Test
