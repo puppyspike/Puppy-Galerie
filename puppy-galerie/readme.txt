@@ -2,7 +2,7 @@
 Tags: puppy, galerie, selbst erstellt
 Requires at least: 5.9
 Tested up to: 6.0.2
-Stable tag: 1.2.0
+Stable tag: 1.2.2
 
 Galerie Menü für die Puppy Galerien
 
