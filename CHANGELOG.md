@@ -4,6 +4,8 @@
 
 ### Other
 
+- Create tag-changelog-config.js [`04270d15`](https://github.com/puppyspike/Puppy-Galerie/commit/04270d158f55bcbd0f4620bea09f91671b6c9830)
+Update der Changelog-Datei
 - Changelog [`a5d1bce9`](https://github.com/puppyspike/Puppy-Galerie/commit/a5d1bce993e5ff11b7557a9b849231b1bdf19346)
 Changelog Creator hinzugefügt
 - update [`d12bc002`](https://github.com/puppyspike/Puppy-Galerie/commit/d12bc0022c45c67131226d9ee9ded504dd98554b)
