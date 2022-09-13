@@ -1,19 +1,14 @@
 === Plugin Name ===
 Contributors: (this should be a list of wordpress.org userid's)
-Donate link: https://example.com/
-Tags: tag1, tag2
-Requires at least: 4.7
-Tested up to: 5.4
-Stable tag: 4.3
-Requires PHP: 7.0
+Tags: puppy, galerie
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+Galerie Menü für die Puppy Galerien
 
 == Description ==
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
+Galerie Menü für die Puppy Galerien
 
 For backwards compatibility, if this section is missing, the full length of the short description will be used, and
 Markdown parsed.
@@ -42,26 +37,14 @@ An answer to that question.
 
 Answer to foo bar dilemma.
 
-== Screenshots ==
+== Changelog ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Screenshots are stored in the /assets directory.
-2. This is the second screen shot
+= 1.2.0 =
+* Erstes Update mit Updater
+* Another change.
 
-## Changelog
-
-\<!-- Version start @@ {"version": "v0.1.1", "tagtitle": "..."} --> Start of the last changelog
-
-- ### v1.2.0
-
-  - The Changelog action will capture the text between `<!-- Version start -->` and `<!-- Version end -->`;
-  - You can add `@@` and a JSON after to receive it on output;
-  - See raw this file for a real example.
-
-\<!-- Version end --> # End of the last changelog
-
-- ### v0.1.0
-
-  - any text
+= 0.5 =
+* List versions from most recent at top to oldest at bottom.
 
 == Upgrade Notice ==
 
