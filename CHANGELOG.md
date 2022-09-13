@@ -8,6 +8,7 @@
 
 ### Other
 
+- clean Testfix [`177d1fa6`](https://github.com/puppyspike/Puppy-Galerie/commit/177d1fa6004fff98d8aec9696f3741c9129ffcb3)
 - Test [`e3c2b648`](https://github.com/puppyspike/Puppy-Galerie/commit/e3c2b648f6dcf529a82e5bb3a5cb973c4dc86e59)
 - Merge commit '3acd9e74dd0c76b9d1aa7ad2f298d29e8eb362a6' [`9269efcf`](https://github.com/puppyspike/Puppy-Galerie/commit/9269efcfedde624ed20df076505234adccab7aeb)
 - Verbesserung von Ordnerstruktur [`4aad0822`](https://github.com/puppyspike/Puppy-Galerie/commit/4aad082283700a7a116febbdd3100275358b06b0)
