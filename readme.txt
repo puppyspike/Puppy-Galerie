@@ -47,14 +47,21 @@ Answer to foo bar dilemma.
 1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Screenshots are stored in the /assets directory.
 2. This is the second screen shot
 
-== Changelog ==
+## Changelog
 
-= 1.2.0 =
-* Erstes Update mit Updater
-* Another change.
+\<!-- Version start @@ {"version": "v0.1.1", "tagtitle": "..."} --> Start of the last changelog
 
-= 0.5 =
-* List versions from most recent at top to oldest at bottom.
+- ### v1.2.0
+
+  - The Changelog action will capture the text between `<!-- Version start -->` and `<!-- Version end -->`;
+  - You can add `@@` and a JSON after to receive it on output;
+  - See raw this file for a real example.
+
+\<!-- Version end --> # End of the last changelog
+
+- ### v0.1.0
+
+  - any text
 
 == Upgrade Notice ==
 
