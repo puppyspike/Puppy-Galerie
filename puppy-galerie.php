@@ -3,7 +3,7 @@
  * Plugin Name: Puppy Galerie
  * Plugin URI: 
  * Description: Galerie Menü für die Puppy Galerien
- * Version: 1.2.0
+ * Version: 1.2.1
  * Author: Felix Limburger
  * Author URI: https://felixlimburger.de
  */
@@ -24,7 +24,7 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 $myUpdateChecker->setBranch('main');
 
 //Optional: If you're using a private repository, specify the access token like this:
-$myUpdateChecker->setAuthentication('your-token-here');
+$myUpdateChecker->setAuthentication('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');
 
 
 /**
