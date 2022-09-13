@@ -8,6 +8,7 @@
 
 ### Other
 
+- Update puppy-galerie.php [`d3dc9aae`](https://github.com/puppyspike/Puppy-Galerie/commit/d3dc9aaeca09dd8f47e781f265c2b0a13d2abd83)
 - Test was bei doc kommt [`1368f35a`](https://github.com/puppyspike/Puppy-Galerie/commit/1368f35ab9a6ceebe82abada054f622e82fc1ad1)
 - Ordnerstruktur [`8d1c00bb`](https://github.com/puppyspike/Puppy-Galerie/commit/8d1c00bb50495667f91b0ac7c24ff027688c5e89)
 - clean Testfix [`177d1fa6`](https://github.com/puppyspike/Puppy-Galerie/commit/177d1fa6004fff98d8aec9696f3741c9129ffcb3)
