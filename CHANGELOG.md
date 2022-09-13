@@ -2,6 +2,10 @@
 
 ## unreleased
 
+### Bug Fixes
+
+- Kleiner Fix für Github [`366419a8`](https://github.com/puppyspike/Puppy-Galerie/commit/366419a850d114404d97cba1aa2ec7017d13b5a3)
+
 ### Other
 
 - Create tag-changelog-config.js [`04270d15`](https://github.com/puppyspike/Puppy-Galerie/commit/04270d158f55bcbd0f4620bea09f91671b6c9830)
