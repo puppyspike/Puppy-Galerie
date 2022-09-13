@@ -8,6 +8,8 @@
 
 ### Other
 
+- Merge commit '3acd9e74dd0c76b9d1aa7ad2f298d29e8eb362a6' [`9269efcf`](https://github.com/puppyspike/Puppy-Galerie/commit/9269efcfedde624ed20df076505234adccab7aeb)
+- Verbesserung von Ordnerstruktur [`4aad0822`](https://github.com/puppyspike/Puppy-Galerie/commit/4aad082283700a7a116febbdd3100275358b06b0)
 - Create tag-changelog-config.js [`04270d15`](https://github.com/puppyspike/Puppy-Galerie/commit/04270d158f55bcbd0f4620bea09f91671b6c9830)
 Update der Changelog-Datei
 - Changelog [`a5d1bce9`](https://github.com/puppyspike/Puppy-Galerie/commit/a5d1bce993e5ff11b7557a9b849231b1bdf19346)
