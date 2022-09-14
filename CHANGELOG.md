@@ -12,6 +12,7 @@ Jep
 
 ### Other
 
+- Codeanpassung [`1f5499ae`](https://github.com/puppyspike/Puppy-Galerie/commit/1f5499aeb2eeaef0f3460011477d529c4e1bbe6f)
 - Create release-drafer.yml [`d8177fb8`](https://github.com/puppyspike/Puppy-Galerie/commit/d8177fb8fd27d79af8afc4c3fa79aa009e653d36)
 - Update puppy-galerie.php [`d3dc9aae`](https://github.com/puppyspike/Puppy-Galerie/commit/d3dc9aaeca09dd8f47e781f265c2b0a13d2abd83)
 - Test was bei doc kommt [`1368f35a`](https://github.com/puppyspike/Puppy-Galerie/commit/1368f35ab9a6ceebe82abada054f622e82fc1ad1)
