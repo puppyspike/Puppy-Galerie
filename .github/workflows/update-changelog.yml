@@ -1,28 +1,24 @@
-name: "Update Changelog"
+name: Generate Changelog
 
 on:
-  release:
-    types: [released]
+  push:
+    branches: [ main, master]
 
 jobs:
-  update:
+  changelog:
+    name: Update Changelog
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          ref: master
-
+          fetch-depth: 0
       - name: Update Changelog
-        uses: stefanzweifel/changelog-updater-action@v1
+        uses: AlexxNB/chalogen@v0.1.4
         with:
-          release-notes: ${{ github.event.release.body }}
-          latest-version: ${{ github.event.release.name }}
-
-      - name: Commit updated CHANGELOG
+          title: Changelog 
+      - name: Commit Changelog to repository
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          branch: master
-          commit_message: Update CHANGELOG
+          commit_message: 'docs(Changelog): Update Changelog'
           file_pattern: CHANGELOG.md
