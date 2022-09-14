@@ -4,6 +4,8 @@
 
 ### Bug Fixes
 
+- Irgendwas [`2e40d131`](https://github.com/puppyspike/Puppy-Galerie/commit/2e40d1318044230d4d9487a4ac3aa273da758f31)
+Jep
 - Kleiner Fix für Github [`366419a8`](https://github.com/puppyspike/Puppy-Galerie/commit/366419a850d114404d97cba1aa2ec7017d13b5a3)
 
 ### Other
